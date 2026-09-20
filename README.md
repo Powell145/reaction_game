@@ -35,6 +35,8 @@ REACTION GAME НА ARDUINO
 
 ![Фото Проекта](photo1.jpg)
 
+![Фото Проекта](photo2.jpg)
+
 ССЫЛКА НА ТИНКЕРКАД
 -------------------
 Проект в Tinkercad: https://www.tinkercad.com/things/ai5lidBhOib-reaction-test
