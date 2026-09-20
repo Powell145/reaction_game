@@ -123,12 +123,15 @@ pinMode(2, INPUT_PULLUP);
 
 СТРУКТУРА
 ---------
+
+```
 reaction-game/
 ├── reaction_game.ino
-├── README.txt
+├── README.md
 ├── schema.png
 ├── photo1.jpg
 └── photo2.jpg
+```
 
 ВКЛАД
 -----
