@@ -31,7 +31,7 @@ REACTION GAME НА ARDUINO
 
 ФОТО ПРОЕКТА
 ------------
-![Схема сборки](schema.jpg)
+![Схема сборки](schema.png)
 
 ![Фото Проекта](photo1.jpg)
 
