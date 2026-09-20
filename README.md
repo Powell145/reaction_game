@@ -126,9 +126,9 @@ pinMode(2, INPUT_PULLUP);
 reaction-game/
 ├── reaction_game.ino
 ├── README.txt
+├── schema.png
 ├── photo1.jpg
-├── photo2.jpg
-└── photo3.jpg
+└── photo2.jpg
 
 ВКЛАД
 -----
